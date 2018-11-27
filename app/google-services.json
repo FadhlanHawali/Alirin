@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "85918925413",
+    "firebase_url": "https://alirin-e54db.firebaseio.com",
+    "project_id": "alirin-e54db",
+    "storage_bucket": "alirin-e54db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85918925413:android:2748e43fb8e94dc8",
+        "android_client_info": {
+          "package_name": "com.fadhlanhawali.alirin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85918925413-gfrha8utblrpdi7gohuvobhvtf0v1g8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-dyhyoInSjzZpOxgfpNGnIcg__K7r44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
